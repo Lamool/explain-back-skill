@@ -1,0 +1,17 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "explain-back-skill",
+  "description": "작업에서 배운 개념을 정리하고 퀴즈로 확인하는 학습용 스킬",
+  "owner": {
+    "name": "Lamool"
+  },
+  "plugins": [
+    {
+      "name": "explain-back",
+      "description": "방금 한 작업의 핵심 개념 3개 정리, 대화형 퀴즈, LEARNING.md 기록",
+      "version": "1.0.0",
+      "source": "./plugins/explain-back",
+      "category": "learning"
+    }
+  ]
+}

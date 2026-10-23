@@ -1,0 +1,9 @@
+{
+  "name": "explain-back",
+  "version": "1.0.0",
+  "description": "방금 한 작업의 핵심 개념 3개 정리, 대화형 퀴즈, LEARNING.md 기록",
+  "author": {
+    "name": "Lamool"
+  },
+  "license": "MIT"
+}
